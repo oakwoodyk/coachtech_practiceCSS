@@ -1,0 +1,29 @@
+.item1 {
+  font-size: 36px;
+}
+
+.item2 {
+  width: 70%;
+  height: 100px;
+  background: darkblue;
+}
+
+.item3 {
+  width: 50%;
+  margin: 70px 0px -90px auto;
+}
+
+.item3 img {
+  width: 100%;
+}
+
+.title {
+  margin: 3% 3%;
+  color: rgb(39, 39, 94);
+  font-size: 18px;
+}
+
+.child {
+  text-align: right;
+  font-size: 12px;
+}
